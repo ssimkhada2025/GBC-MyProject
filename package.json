@@ -1,0 +1,30 @@
+{
+
+    "name": "aws-eks-app-deployment-main",
+  
+    "version": "1.0.0",
+  
+    "description": "## Steps to deploy application",
+  
+    "main": "index.js",
+  
+    "scripts": {
+  
+      "start": "node index.js"
+  
+    },
+  
+    "keywords": [],
+  
+    "author": "",
+  
+    "license": "ISC",
+  
+    "dependencies": {
+  
+      "express": "^4.21.2"
+  
+    }
+  
+  }
+   
